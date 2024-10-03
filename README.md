@@ -3,7 +3,6 @@
 
 🛠️ I have expertise in Python and Node.js, and I'm proficient with MySQL, MongoDB, and Redis.<br>🚀 I am constantly looking to expand my knowledge and work alongside skilled teams. Let’s create something incredible together!
 
-- See my [Portfolio]()
 -  Feel free to reach to me on [LinkedIn](https://www.linkedin.com/in/kirlos-basta/) or [email](kirlosbasta@gmail.com)
 
 ## 🌐 Socials:
